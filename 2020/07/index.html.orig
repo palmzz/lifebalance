@@ -9,7 +9,7 @@
 
 		<link rel="profile" href="https://gmpg.org/xfn/11">
 
-		<title>Lifebalance &#8212; Ещё один сайт на WordPress</title>
+		<title>Июль 2020 &#8212; Lifebalance</title>
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Lifebalance &raquo; Лента" href="http://localhost/lifebalance/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Lifebalance &raquo; Лента комментариев" href="http://localhost/lifebalance/comments/feed/" />
@@ -48,7 +48,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 	</head>
 
-	<body class="home blog wp-embed-responsive enable-search-modal has-no-pagination showing-comments show-avatars footer-top-visible">
+	<body class="archive date wp-embed-responsive enable-search-modal has-no-pagination showing-comments show-avatars footer-top-visible">
 
 		<a class="skip-link screen-reader-text" href="#site-content">Перейти к содержимому</a>
 		<header id="site-header" class="header-footer-group" role="banner">
@@ -69,7 +69,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 					
 					<div class="header-titles">
 
-						<h1 class="site-title"><a href="http://localhost/lifebalance/">Lifebalance</a></h1><div class="site-description">Ещё один сайт на WordPress</div><!-- .site-description -->
+						<div class="site-title faux-heading"><a href="http://localhost/lifebalance/">Lifebalance</a></div><div class="site-description">Ещё один сайт на WordPress</div><!-- .site-description -->
 					</div><!-- .header-titles -->
 
 					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
@@ -183,6 +183,18 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 <main id="site-content" role="main">
 
 	
+		<header class="archive-header has-text-align-center header-footer-group">
+
+			<div class="archive-header-inner section-inner medium">
+
+									<h1 class="archive-title"><span class="color-accent">Месяц:</span> Июль 2020</h1>
+				
+				
+			</div><!-- .archive-header-inner -->
+
+		</header><!-- .archive-header -->
+
+		
 <article class="post-1 post type-post status-publish format-standard hentry category-1" id="post-1">
 
 	
@@ -285,7 +297,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 						
 							<div class="footer-widgets column-two grid-item">
 								<div class="widget widget_archive"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Архивы</h2>		<ul>
-				<li><a href='http://localhost/lifebalance/2020/07/'>Июль 2020</a></li>
+				<li><a href='http://localhost/lifebalance/2020/07/' aria-current="page">Июль 2020</a></li>
 		</ul>
 			</div></div><div class="widget widget_categories"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Рубрики</h2>		<ul>
 				<li class="cat-item cat-item-1"><a href="http://localhost/lifebalance/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/">Без рубрики</a>
